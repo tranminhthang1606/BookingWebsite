@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "configuration server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranminhthang1606/BookingWebsite.git"
+  },
+  "author": "minhthang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranminhthang1606/BookingWebsite/issues"
+  },
+  "homepage": "https://github.com/tranminhthang1606/BookingWebsite#readme"
+}
